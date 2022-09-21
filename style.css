@@ -147,3 +147,15 @@ header ul li a:hover {
   background: #017143;
   clip-path: circle(600px at right 800px);
 }
+
+.html {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}

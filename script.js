@@ -4,6 +4,10 @@ const activeColor = document.querySelector(".active-color");
 function imgSlider(anything) {
   document.querySelector(".starbucks").src = anything;
 }
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
 
 function changeCircleColor(color) {
   const circle = document.querySelector(".circle");
